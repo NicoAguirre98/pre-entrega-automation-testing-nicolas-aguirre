@@ -90,19 +90,3 @@ Credenciales usadas en SauceDemo:
 - Usuario: `standard_user`
 - Password: `secret_sauce`
 
-## Entrega en GitHub
-
-Nombre sugerido del repositorio:
-
-```text
-pre-entrega-automation-testing-nombre-apellido
-```
-
-Se recomienda realizar commits frecuentes con mensajes descriptivos, por ejemplo:
-
-```bash
-git add .
-git commit -m "Crear estructura inicial del proyecto"
-git commit -m "Agregar pruebas de login e inventario"
-git commit -m "Agregar validacion de carrito y reporte HTML"
-```
